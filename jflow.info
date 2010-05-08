@@ -1,0 +1,4 @@
+name = "jFlow"
+description = "jflow"
+package = jflow
+core = 6.x
